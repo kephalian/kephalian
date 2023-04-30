@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kephalian Santhosh Kumar Rajamani 
-- 👀 I’m interested in both 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in both R language and Python
+- 🌱 I’m currently learning Python and R language 
+- 💞️ I’m looking to collaborate on Python and R language 
 - 📫 How to reach me at minerva.santh@gmail.com 
 
 <!---
