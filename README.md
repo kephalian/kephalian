@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kephalian Santhosh Kumar Rajamani 
+- 👋 Hi, I’m @kephalian Santhosh Kumar Rajamani Otorhinolaryngologist 
 - 👀 I’m interested in both R language and Python
 - 🌱 I’m currently learning Python and R language 
 - 💞️ I’m looking to collaborate on Python and R language 
